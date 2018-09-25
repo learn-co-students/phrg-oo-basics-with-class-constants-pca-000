@@ -149,4 +149,8 @@ Open `spec/02_shoe_spec.rb` and start making the tests pass. Write your code in 
 To run the specs, type `learn spec/02_shoe_spec.rb` on your command line.
 
 Happy coding!
+
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-oo-basics-with-class-constants/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-oo-basics-with-class-constants/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+ 
 <p data-visibility='hidden'>PHRG Object Orientation Basics With Class Constants</p>
